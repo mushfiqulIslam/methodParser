@@ -6,7 +6,12 @@ import com.github.javaparser.ast.CompilationUnit;
 
 import java.io.*;
 
+
 public class JavaSourceCodeParser {
+    /**
+     * The JavaSourceCodeParser class is responsible for parsing Java source code files
+     * and extracts method names from them.
+     */
     private final BufferedWriter bufferedWriter;
     public JavaSourceCodeParser(BufferedWriter bufferedWriter) {
         this.bufferedWriter = bufferedWriter;
