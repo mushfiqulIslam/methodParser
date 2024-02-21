@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="javaparser-symbol-solver-core-3.25.9-SNAPSHOT">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../javaparser/javaparser-symbol-solver-core/target/javaparser-symbol-solver-core-3.25.9-SNAPSHOT.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
